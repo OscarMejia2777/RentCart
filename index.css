@@ -1,0 +1,67 @@
+.navBarra{
+    display: flex;
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+
+.contentSearch{
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+    align-items: center;
+
+    
+}
+
+
+
+
+.borderSearch{
+    width: 400px;
+    height: 44px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px  solid #C3D4E9; 
+    border-radius: 400px;
+}
+
+.lupa{
+    margin: 10px;
+    width: 24px;
+    height: 24px;
+}
+.filtroImg{
+    margin: 10px;
+    width: 24px;
+    height: 24px; 
+}
+
+.tituloName{
+    width: 148px;
+    height: 44px;
+    font-size: 32px;
+    color: #3563E9;
+    margin-left: 30px;
+}
+
+
+.barTex{
+    border: none;
+}
+
+.contentBotones{
+    display: flex;
+    justify-content: end;
+    width: 50%;
+}
+
+.botones{
+    display: flex;
+    justify-content: center;
+    
+    margin-right: 20px;
+    margin-top: 10px;
+    gap: 20px;
+}
